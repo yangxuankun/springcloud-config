@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: cloud-config-server
+config:
+  info: 'dsadhsjkhdkjsahdkjsahdjkahskjdas'
